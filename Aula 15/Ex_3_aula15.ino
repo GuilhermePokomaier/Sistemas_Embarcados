@@ -40,7 +40,7 @@ void loop() {
     }
   }
 if (count > 50)
-  if (countA == 0){
+  if (countA == 50){
     digitalWrite(pin_led1, 1);
   }
   else{
