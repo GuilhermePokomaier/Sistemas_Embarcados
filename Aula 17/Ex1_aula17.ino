@@ -1,4 +1,4 @@
-d#define pin_led1 10 //LIB(LIBERADO)
+#define pin_led1 10 //LIB(LIBERADO)
 #define pin_led2 11 //LOT(LOTADO)
 #define pin_led3 12 //VER(VERIFICAR)
 #define pin_botaoA 2 //SEV(SENSOR ENTRADA)
